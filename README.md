@@ -1,3 +1,7 @@
 # DrumGuitarHero
 Drum Guitar Hero with Pro Micro Microcontroller
-(./schematic.pdf)
+## Esquemático
+
+![Vista previa del esquemático](./schematic.png)
+
+[Ver PDF completo](./schematic.pdf)
